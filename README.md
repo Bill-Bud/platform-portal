@@ -1,2 +1,1 @@
-# platform-portal
-Platform Portal Build With NextJS
+# Bill Bud Platform Portal
